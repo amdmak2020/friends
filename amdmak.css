@@ -1,0 +1,72 @@
+body {
+    font-family: Bangers;
+    font-size: 3em;
+    background: linear-gradient(to bottom, rgba(0, 238, 255, 0.4), black);
+    text-align: center;
+    margin: 0;
+}
+.amdmak {
+    width: 900px;
+    height: 450px;
+    background-color: teal;
+    background-image: url("https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/0-feature-16.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+}
+
+.start {
+    width: %100;
+    height: 300px;
+    background-color: tomato;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzmcyadI3ZSDNFkgL-CvJ20e7rcX0PnFQaw6fcL8UOOE1MzzZb&usqp=CAU");
+    background-size: cover;
+}
+.but {
+    width: 300px;
+    height:200px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn{
+    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+.btn:hover{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+}
+.mak {}
+.bar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .bar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    width: %100;
+    height: 30px;
+    padding: 30px 35px;
+    text-decoration: none;
+    font-size:35px;
+
+  }
+  
+  .bar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .bar a.ac {
+    background-color: #4CAF50;
+    color: white;
+  }
